@@ -1,4 +1,5 @@
 ## Hola, I'm [monicatvera](https://github.com/monicatvera) 👋
+Hi, I'm Monica! I'm a Mobile and Web developer who is passionate about mobile technologies and and open source.
 <br />
 - 🔭 I’m a web and mobile developer.
 <br/>
@@ -38,6 +39,12 @@
 <a href="https://github.com/monicatvera">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monicatvera&show_icons=true&theme=light&line_height=27" alt="monicatvera github stats"/>
 </a>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:monitvera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-monitvera@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 <div align="center">
 
