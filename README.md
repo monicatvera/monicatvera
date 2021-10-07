@@ -35,15 +35,13 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monicatvera&show_icons=true&theme=light&line_height=27" alt="monicatvera github stats"/>
 </a>
 
-<p align="center">
+<div align="center">
 <h3> 🤝🏻 Connect with Me </h3>
-</p>
+</div>
 
-<p align="center">
-[![Linkedin: imthepk](https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M%C3%B3nica%20Tard%C3%B3n%20Vera/)](https://www.linkedin.com/in/mónica-ilenia-tardón-vera)
-[![GitHub iampawan](https://img.shields.io/github/followers/monicatvera?label=follow&style=social)](https://github.com/monicatvera)
+[![Linkedin: monicatvera](https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M%C3%B3nica%20Tard%C3%B3n%20Vera/)](https://www.linkedin.com/in/mónica-ilenia-tardón-vera)
+[![GitHub monicatvera](https://img.shields.io/github/followers/monicatvera?label=follow&style=social)](https://github.com/monicatvera)
 <a href="mailto:monitvera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-monitvera@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
 
 <div align="center">
 
