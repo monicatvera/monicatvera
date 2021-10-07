@@ -1,8 +1,5 @@
 ## Hola, I'm [monicatvera](https://github.com/monicatvera) 👋
-
 <br/>
-<br/>
-
 - 🔭 I’m a web and mobile developer.
 - 🌱 Learning something new every day.
 - 😄 Pronouns: She/Her
