@@ -1,5 +1,4 @@
-## Hola, I'm [monicatvera](https://github.com/monicatvera) 👋
-Hi, I'm Monica! I'm a Mobile and Web developer who is passionate about mobile technologies and and open source.
+## Hola, I'm [monicatvera](https://github.com/monicatvera) 👋👩🏻‍💻
 <br />
 - 🔭 I’m a web and mobile developer.
 <br/>
@@ -10,10 +9,6 @@ Hi, I'm Monica! I'm a Mobile and Web developer who is passionate about mobile te
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 <br/>
 <br/>
-
-[![Linkedin: imthepk](https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M%C3%B3nica%20Tard%C3%B3n%20Vera/)](https://www.linkedin.com/in/mónica-ilenia-tardón-vera)
-[![GitHub iampawan](https://img.shields.io/github/followers/monicatvera?label=follow&style=social)](https://github.com/monicatvera)
-
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -40,9 +35,13 @@ Hi, I'm Monica! I'm a Mobile and Web developer who is passionate about mobile te
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monicatvera&show_icons=true&theme=light&line_height=27" alt="monicatvera github stats"/>
 </a>
 
+<p align="center">
 <h3> 🤝🏻 Connect with Me </h3>
+</p>
 
 <p align="center">
+[![Linkedin: imthepk](https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M%C3%B3nica%20Tard%C3%B3n%20Vera/)](https://www.linkedin.com/in/mónica-ilenia-tardón-vera)
+[![GitHub iampawan](https://img.shields.io/github/followers/monicatvera?label=follow&style=social)](https://github.com/monicatvera)
 <a href="mailto:monitvera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-monitvera@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
