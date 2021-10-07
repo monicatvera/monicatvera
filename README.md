@@ -1,7 +1,13 @@
-## Hola, I'm [Mónica Ilenia Tardón Vera](https://github.com/monicatvera) 👋
+## Hola, I'm [monicatvera](https://github.com/monicatvera) 👋
+
+<a href="https://www.linkedin.com/in/mónica-ilenia-tardón-vera">
+  <img align="left" alt="Monica Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/monicatvera">
+  <img align="left" alt="monica Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 
-**monicatvera/monicatvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
