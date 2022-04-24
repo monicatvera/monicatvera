@@ -12,8 +12,15 @@ I’m a software developer specializing in building (and occasionally designing)
 * 🧠  I'm learning something new every day.
 * ⚡  I spend almost 12 hours listening to songs every day.
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<div align="center">
 <a href="https://www.github.com/monicatvera" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/monicatvera?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+<a href="https://www.linkedin.com/in/monicatvera" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-14b8a6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M%C3%B3nica%20Tard%C3%B3n%20Vera/" /></a>
+<a href="mailto:monitvera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-monitvera@gmail.com-14b8a6?style=flat&logo=gmail"></a>
+</div>
 
 ### Skills
 
@@ -67,3 +74,9 @@ src="https://img.shields.io/github/followers/monicatvera?logo=github&style=for-t
 <a href="http://www.github.com/monicatvera"><img src="https://github-readme-stats.vercel.app/api?username=monicatvera&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="monicatvera's GitHub stats" /></a>
 
 <a href="http://www.github.com/monicatvera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monicatvera&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
