@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-14b8a6?style
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -66,17 +66,19 @@ src="https://img.shields.io/badge/-M%C3%B3nica%20Tard%C3%B3n%20Vera-14b8a6?style
 <p align="left"> <a href="https://www.github.com/monicatvera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/monicatvera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<div align="center">
+<a href="https://github.com/monicatvera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicatvera&langs_count=4&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/monicatvera">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=monicatvera&show_icons=true&theme=light&line_height=27&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917" alt="monicatvera github stats"/>
+</a>
 
-<a href="https://github.com/monicatvera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicatvera&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/monicatvera"><img src="https://github-readme-stats.vercel.app/api?username=monicatvera&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="monicatvera's GitHub stats" /></a>
-
-<a href="http://www.github.com/monicatvera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monicatvera&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/monicatvera" align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=monicatvera&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
+</div>
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
+  
 </div>
