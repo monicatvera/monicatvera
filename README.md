@@ -7,7 +7,6 @@ Full Stack Developer
 I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.
 
 * 🌍  I'm based in Las Palmas de Gran Canaria, Spain
-* 🖥️  See my portfolio at [monicatvera.es](https://monicatvera.es/)
 * ✉️  You can contact me at [monitvera@gmail.com](mailto:monitvera@gmail.com)
 * 🧠  I'm learning something new every day.
 * ⚡  I spend almost 12 hours listening to songs every day.
