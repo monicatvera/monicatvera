@@ -1,7 +1,7 @@
 Hi 👋 My name is Mónica Ilenia
 ==============================
 
-Full Stack Developer
+FullStack Developer
 --------------------
 
 I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.
