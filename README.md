@@ -8,7 +8,7 @@ I’m a software developer specializing in building (and occasionally designing)
 * 🌍  I'm based in Las Palmas de Gran Canaria, Spain
 * ✉️  You can contact me at [monitvera@gmail.com](mailto:monitvera@gmail.com)
 * 🧠  I'm learning something new every day.
-* ⚡  I spend almost 12 hours listening to songs every day.
+* 🎧  I spend almost 12 hours listening to songs every day.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
