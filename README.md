@@ -66,4 +66,6 @@
   <img src="https://profile-counter.glitch.me/monicatvera/count.svg?"  />
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ###
