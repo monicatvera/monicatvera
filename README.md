@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">Hello World! I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.</h4>
+<h3 align="left">Hello World! I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.</h3>
 
 ###
 
