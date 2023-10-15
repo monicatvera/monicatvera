@@ -47,7 +47,7 @@
 </div>
 <br clear="both">
 <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"  width="500"/>
-<img align="right" src="https://raw.githubusercontent.com/monicatvera/monicatvera/output/snake.svg" alt="Snake animation" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/monicatvera/monicatvera/output/snake.svg" alt="Snake animation" width="300"/>
 
 <br clear="both">
 <div align="center">
