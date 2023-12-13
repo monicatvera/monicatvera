@@ -53,5 +53,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/monicatvera/count.svg?"  />
 </div>
-
-[![An image of @monicatvera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/monicatvera)](https://holopin.io/@monicatvera)
