@@ -1,14 +1,20 @@
-<h2 align="center">Hi 👋!  I'm monicatvera</h2>
+<h2 align="center">Hi 👋! I'm Mónica</h2>
 
 <br clear="both">
 
-<h4 align="left">Hello World! I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products.</h4>
+<h4 align="left"> Frontend Software Engineer focused on frontend architecture and building scalable, maintainable web applications with React and TypeScript. </h4>
+
 
 <br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
-<p align="left">🌍  I'm based in Las Palmas de Gran Canaria, Spain<br>✉️  You can contact me at monitvera@gmail.com<br>🧠  I'm learning something new every day.<br>🎧 I spend almost 12 hours listening to songs every day.</p>
+<p align="left">
+🌍 Based in Las Palmas de Gran Canaria, Spain<br>
+✉️ Contact: monitvera@gmail.com<br>
+🧱 Focused on frontend architecture, clean code and long-term maintainability<br>
+🧠 Constantly learning and refining my technical criteria
+</p>
 
 
 <div align="left">
