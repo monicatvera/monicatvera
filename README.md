@@ -11,7 +11,7 @@ Frontend Software Engineer focused on frontend architecture and building scalabl
 <img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 <p align="left">
-🌍 Based in Las Palmas de Gran Canaria, Spain<br>
+🌍 Based in Spain<br>
 ✉️ Contact: monitvera@gmail.com<br>
 🧱 Interested in frontend architecture, clean code and long-term maintainability<br>
 🧠 Always learning and refining my technical criteria
